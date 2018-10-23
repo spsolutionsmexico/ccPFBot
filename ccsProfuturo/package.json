@@ -1,0 +1,17 @@
+{
+  "name": "ccsProfuturo",
+  "version": "1.0.0",
+  "description": "Costum Componet Service",
+  "main": "ccsProfuturo.js",
+  "dependencies": {
+    "joi": "^9.2.0",
+    "log4js": "^1.1.1",
+    "moment": "^2.16.0"
+  },
+  "oracleMobile": {
+    "dependencies": {
+      "apis": {},
+      "connectors": {}
+    }
+  }
+}
